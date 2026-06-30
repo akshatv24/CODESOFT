@@ -21,7 +21,7 @@ This repository, named **CODSOFT**, contains the source code for the tasks assig
 # 🔗 Demonstration
   A video showcasing my work and providing a demo of my effort has been hosted on LinkedIn to build credibility.
   
-     *LinkedIn Video Link:* 
+     LinkedIn Video Link: https://www.linkedin.com/posts/akshat-verma-9b5312364_codsoft-internship-python-activity-7477592404473200642--ub3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFp1iBkBSyL-MIdladjcBDI_w-VHHP_OW_0
 
 
   ---
